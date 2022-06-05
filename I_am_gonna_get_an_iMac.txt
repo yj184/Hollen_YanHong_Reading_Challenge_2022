@@ -1,3 +1,5 @@
 Example:
-1. 10.00 % Yanhong	"Brief New World" Jun 5
-1. 99.99 % Hollen	"Intro to Organic Chemistry" Jun 5
+53. 10.00 % Yanhong	"Brief New World" Jun 5
+53. 99.99 % Hollen	"Intro to Organic Chemistry" Jun 5
+
+1.	 0.25 % Hollen	"The Grapes Of Wrath" Jun 5
