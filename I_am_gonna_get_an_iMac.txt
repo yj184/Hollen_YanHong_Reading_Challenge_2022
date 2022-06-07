@@ -3,4 +3,4 @@ Example:
 53. 99.99 % Hollen	"Intro to Organic Chemistry" Jun 5
 
  1.  1.50 % Hollen	"The Grapes Of Wrath" Jun 5
- 2.  10.0 % Yanhong "Brave New World" Jun 6
+ 2.  11.0 % Yanhong "Brave New World" Jun 6
