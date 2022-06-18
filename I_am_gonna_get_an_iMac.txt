@@ -3,9 +3,15 @@ Example:
 53. 99.99 % Hollen	"Intro to Organic Chemistry" Jun 5
 
  1. 10.33 % Hollen	"The Grapes Of Wrath" Jun 5
- 1. 20.00 % Yanhong	"Brave New World" Jun 6
+ 1. 23.00 % Yanhong	"Brave New World" Jun 6
  2. 100.0 % Yanhong	"三体：地球往事" Jun 8
  3. 100.0 % Yanhong     "三体：黑暗森林" Jun 8
  2. 100.0 % Hollen	"绝叫" Jun 9
  3.  2.63 % Hollen	"Everything Is F*cked: A Book About Hope" Jun 9
  4. 14.70 % Hollen	"Gilbert Strang - Intro to Linear Algebra" Jun 12
+ 4. 100.0 % Yanhong     "The Vegetarian" Jun 13
+ 5. 100.0 % Yanhong     "三体：死神降临" Jun 16
+ 6. 53.00 % Yanhong     "The Basics of Bitcoins and Blockchains" Jun 16
+ 7.  8.00 % Yanhong     "Educated" Jun 17
+ 8. 11.00 % Yanhong     "Spam Nation" Jun 17
+
