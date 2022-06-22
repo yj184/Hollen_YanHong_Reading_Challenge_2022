@@ -8,7 +8,7 @@ Example:
  3. 100.0 % Yanhong     "三体：黑暗森林" Jun 8
  2. 100.0 % Hollen	"绝叫" Jun 9
  3.  2.63 % Hollen	"Everything Is F*cked: A Book About Hope" Jun 9
- 4. 14.70 % Hollen	"Gilbert Strang - Intro to Linear Algebra" Jun 12
+ 4. 11.00 % Hollen	"Gilbert Strang - Intro to Linear Algebra" Jun 12
  4. 100.0 % Yanhong     "The Vegetarian" Jun 13
  5. 100.0 % Yanhong     "三体：死神降临" Jun 16
  6. 53.00 % Yanhong     "The Basics of Bitcoins and Blockchains" Jun 16
