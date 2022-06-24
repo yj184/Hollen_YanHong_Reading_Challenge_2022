@@ -3,7 +3,7 @@ Example:
 53. 99.99 % Hollen	"Intro to Organic Chemistry" Jun 5
 
  1. 10.33 % Hollen	"The Grapes Of Wrath" Jun 5
- 1. 23.00 % Yanhong	"Brave New World" Jun 6
+ 1. 100.0 % Yanhong	"Brave New World" Jun 6
  2. 100.0 % Yanhong	"三体：地球往事" Jun 8
  3. 100.0 % Yanhong     "三体：黑暗森林" Jun 8
  2. 100.0 % Hollen	"绝叫" Jun 9
@@ -14,4 +14,6 @@ Example:
  6. 53.00 % Yanhong     "The Basics of Bitcoins and Blockchains" Jun 16
  7.  8.00 % Yanhong     "Educated" Jun 17
  8. 11.00 % Yanhong     "Spam Nation" Jun 17
+ 9. 100.0 % Yanhong     "重返美丽新世界" Jun 20
+10. 27.00 % Yanhong     "The Sunny Nihilist" Jun 24
 
