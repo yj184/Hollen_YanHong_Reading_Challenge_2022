@@ -16,3 +16,4 @@ Example:
  8. 11.00 % Yanhong     "Spam Nation" Jun 17
  9. 100.0 % Yanhong     "重返美丽新世界" Jun 20
 10. 27.00 % Yanhong     "The Sunny Nihilist" Jun 24
+ 5. 100.0 % Hollen     "球状闪电" Jul 2
