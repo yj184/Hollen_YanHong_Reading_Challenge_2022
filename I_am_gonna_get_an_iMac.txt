@@ -17,6 +17,7 @@ Example:
  9. 100.0 % Yanhong     "重返美丽新世界" Jun 20
 10. 27.00 % Yanhong     "The Sunny Nihilist" Jun 24
  5. 100.0 % Hollen      "球状闪电" Jul 2
- 6. 100.0 % Hollen	"三体2" Jul 5
- 7. 100.0 % Hollen	"三体3" Jul 5
- 8. 100.0 % Hollen      "挽救计划" Jul 16 
+ 6. 100.0 % Hollen      "三体1" Jul 5
+ 7. 100.0 % Hollen      "三体2" Jul 5
+ 8. 100.0 % Hollen      "三体3" Jul 5
+ 9. 100.0 % Hollen      "挽救计划" Jul 16 
