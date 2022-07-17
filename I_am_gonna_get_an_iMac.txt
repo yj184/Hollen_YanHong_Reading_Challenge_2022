@@ -21,3 +21,4 @@ Example:
  7. 100.0 % Hollen      "三体2" Jul 5
  8. 100.0 % Hollen      "三体3" Jul 5
  9. 100.0 % Hollen      "挽救计划" Jul 16 
+10. 100.0 % Hollen      "带上她的眼睛" Jul 17
