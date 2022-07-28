@@ -23,3 +23,4 @@ Example:
  9. 100.0 % Hollen      "挽救计划" Jul 16 
 10. 100.0 % Hollen      "带上她的眼睛" Jul 17
 11. 100.0 % Hollen      "星之继承者" Jul 27
+12. 100.0 % Hollen      "星之继承者2" Jul 27
