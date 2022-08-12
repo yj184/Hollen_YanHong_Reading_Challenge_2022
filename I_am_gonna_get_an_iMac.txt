@@ -11,11 +11,11 @@ Example:
  4. 11.00 % Hollen	"Gilbert Strang - Intro to Linear Algebra" Jun 12
  4. 100.0 % Yanhong     "The Vegetarian" Jun 13
  5. 100.0 % Yanhong     "三体：死神降临" Jun 16
- 6. 53.00 % Yanhong     "The Basics of Bitcoins and Blockchains" Jun 16
- 7.  8.00 % Yanhong     "Educated" Jun 17
+ 6. 100.0 % Yanhong     "The Basics of Bitcoins and Blockchains" Jun 16
+ 7. 32.00 % Yanhong     "Educated" Jun 17
  8. 11.00 % Yanhong     "Spam Nation" Jun 17
  9. 100.0 % Yanhong     "重返美丽新世界" Jun 20
-10. 27.00 % Yanhong     "The Sunny Nihilist" Jun 24
+10. 100.0 % Yanhong     "The Sunny Nihilist" Jun 24
  5. 100.0 % Hollen      "球状闪电" Jul 2
  6. 100.0 % Hollen      "三体1" Jul 5
  7. 100.0 % Hollen      "三体2" Jul 5
@@ -24,3 +24,8 @@ Example:
 10. 100.0 % Hollen      "带上她的眼睛" Jul 17
 11. 100.0 % Hollen      "星之继承者" Jul 27
 12. 100.0 % Hollen      "星之继承者2" Jul 27
+11. 100.0 % Yanhong     "百年孤独" July 18
+12. 100.0 % Yanhong     "不能承受的生命之轻" July 25
+13. 100.0 % Yanhong     "带上她的眼睛" Aug 1
+14. 100.0 % Yanhong     "俗女养成记" Aug 5
+
