@@ -28,4 +28,5 @@ Example:
 12. 100.0 % Yanhong     "不能承受的生命之轻" July 25
 13. 100.0 % Yanhong     "带上她的眼睛" Aug 1
 14. 100.0 % Yanhong     "俗女养成记" Aug 5
-13. 100.0 % Hollen      "北京折叠" Aug 12 
+13. 100.0 % Hollen      "北京折叠" Aug 13
+14. 100.0 % Hollen      "星之继承者3" Aug 19  
